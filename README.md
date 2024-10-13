@@ -1,1 +1,2 @@
-readme.md
+# phpmyRestaurant
+formerly Next-Generation-Restaurant-POS
